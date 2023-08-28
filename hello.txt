@@ -1,2 +1,3 @@
 M1 - first text on branch
 F1 - first changes on feature
+F2 - second change on feature branch
